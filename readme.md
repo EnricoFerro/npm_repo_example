@@ -105,3 +105,8 @@ For use the package in local it is possible to import using the command:
     "npm_repo_example": "file:../npm_repo_example"
   },
 ```
+
+## LICENCE 
+
+[Licence](LICENCE)
+
